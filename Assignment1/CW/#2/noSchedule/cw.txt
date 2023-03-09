@@ -1,0 +1,11 @@
+**task**
+Search for user schedule
+
+**user**
+UA student
+
+**issue**
+No schedule available
+
+**question**
+how long will the user take to acknowledge that the schedule is not available in the app?

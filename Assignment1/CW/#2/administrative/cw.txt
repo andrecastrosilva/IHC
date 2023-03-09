@@ -1,0 +1,11 @@
+**task**
+Search for administrative menu
+
+**user**
+UA student
+
+**issue**
+Administrative is not clear
+
+**question**
+will the user recognize the administrative logo?

@@ -1,0 +1,11 @@
+**task**
+Search for the user courses
+
+**user**
+UA student
+
+**issue**
+no intertnet conection
+
+**question**
+does the user know that he has no internet conection?
